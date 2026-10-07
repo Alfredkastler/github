@@ -56,6 +56,8 @@
 
 #####git push -u origin master : Envoie ma branche locale master vers le dépôt distant origin (GitHub), et mémorise cette association.
 
+#####git push : envoie des commits sur le depot distant chaque fois tu fais des mofification
+
 x=a+b
 y=a-b
 
