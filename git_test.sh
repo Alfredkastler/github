@@ -18,5 +18,9 @@
 
 ####git diff: montrer exactement les changements appliqués sur les fichiers
  
+####git commit -m "msg" : enregistre les modifications préparées avec git add dans l'historique Git. Le message permet d'indiquer ce que contient cette version.
+
 
 x=a+b
+y=a-b
+
