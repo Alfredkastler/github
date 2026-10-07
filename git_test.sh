@@ -1,0 +1,16 @@
+#####git init:  "Cette commande est la première étape pour transformer ton dossier en dépôt Git."
+
+#exp:git init crée simplement le dépôt localement sur ma machine
+
+#github/
+#│
+#├── .git/          ← Git est maintenant installé ici
+#├── projet1/
+#├── script.sh
+#└── README.md
+#
+
+####git status:afficher les les fichiers non suivis(UNtracked files)
+
+
+####git add: suivre les modifications des fichiers 
